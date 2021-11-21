@@ -4,11 +4,10 @@
 
 Projects are Qvault's way of providing "unguided" learning to students. Courses are a great way to learn new concepts quickly, then projects let you get your hands dirty with "real world" code.
 
-* In a project, you work on your local machine
+* In a project you work on your local machine
 * You'll have a working codebase at the end to show off on your Github profile or on a resume
 * Projects allow you to come up with more of the solution on your own, like you would in a real life job
 * You'll still have instructions and guidance on how to complete each step
-* You will still get a certificate at the end if you have a pro account
 
 ## About the author, Lane Wagner
 
