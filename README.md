@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png">
+  <img src="assets/logo.png">
 </p>
 
 # Qvault's Take Home Computer Science Projects
